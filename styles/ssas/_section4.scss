@@ -1,0 +1,16 @@
+.cards__row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.card {
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+.img {
+  width: 250px;
+  height: 200px;
+  background-color: #004422;
+  margin-bottom: 20px;
+}
